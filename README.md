@@ -99,7 +99,7 @@ plt.legend()
 plt.show()
 ```
 
-## OUTPUT
+## OUTPUT:
 
 ### Scaled data plot:
 ![image](https://github.com/user-attachments/assets/8927f9c1-aa73-4b55-b86c-13ac600256dd)
